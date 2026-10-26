@@ -1,0 +1,10 @@
+{
+  "name": "fitcore-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx http-server ./src -p 5173 -a 0.0.0.0"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

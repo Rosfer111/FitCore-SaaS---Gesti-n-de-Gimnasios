@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.*.local
+node_modules/
+**/node_modules/
+dist/
+build/
+mysql_data/
+.DS_Store
+.vscode/
+.idea/
