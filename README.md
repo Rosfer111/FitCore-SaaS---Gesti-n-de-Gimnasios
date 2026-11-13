@@ -44,18 +44,18 @@ Esta entrega configura el entorno base de desarrollo. El backend expone el endpo
 gantt
     dateFormat  YYYY-MM-DD
     title       Planificación Temporal FitCore - Desarrollo e Integración
-
+    
     section Planificación y Diseño
     Plan de Trabajo y EDT               :done, 2026-10-05, 2026-10-19
     Matriz Riesgos y Tarea 6            :done, 2026-10-26, 2026-11-16
     Hito 2: Plan de Trabajo             :milestone, 2026-11-16, 0d
-
+    
     section Arquitectura y Desarrollo
     Arquitectura y Base de Datos        :active, 2026-11-23, 2026-12-14
     API REST y Autenticación Backend    :2026-12-14, 2026-12-28
     Frontend UI/UX Calendario/Dash      :2026-12-21, 2027-01-11
     Hito 3: Diseño Integral             :milestone, 2027-01-18, 0d
-
+    
     section Pruebas, Integración y FCT
     Pruebas de Integración (QA)         :2027-01-11, 2027-01-21
     Inicio FCT (Prácticas Empresa)      :milestone, 2027-01-22, 0d
